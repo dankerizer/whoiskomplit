@@ -1,0 +1,33 @@
+.domain-box{
+	border-radius: 10px; 
+	background-color: #00B6E9; 
+	padding: 10px; 
+	border: 2px solid #dedfe2;
+	text-align: center;
+}
+
+.message{
+	border-radius: 5px; 
+	border: 1px; 
+	background-color: #009ECA; 
+	color: #fff;
+	width: 60%;
+	margin: 10px auto auto;
+}
+
+#domain{
+	margin-top: 10px; 
+	width: 40%;
+	padding: 10px;
+}
+
+#eks{
+	padding: 10px;
+}
+
+#tombol-cek{
+	padding: 11px 30px; 
+	background-color: #01a6d4; 
+	border: 0; 
+	color: white;
+}

@@ -1,0 +1,1132 @@
+[
+    {
+        "extensions": ".com,.net,.es,.com.es,.nom.es,.gob.es,.edu.es",
+        "uri": "whois.crsnic.net",
+        "available": "No match for"
+    },
+    {
+        "extensions": ".org,.ngo,.ong",
+        "uri": "whois.publicinterestregistry.net",
+        "available": "NOT FOUND"
+    },
+    {
+        "extensions": ".uk,.co.uk,.net.uk,.org.uk,.ltd.uk,.plc.uk,.me.uk",
+        "uri": "whois.nic.uk",
+        "available": "No match"
+    },
+    {
+        "extensions": ".edu,.mil",
+        "uri": "whois.internic.net",
+        "available": "No match for"
+    },
+    {
+        "extensions": ".br.com,.cn.com,.eu.com,.hu.com,.no.com,.qc.com,.sa.com,.se.com,.se.net,.us.com,.uy.com,.za.com,.com.de,.uk.com,.uk.net,.gb.com,.gb.net,.online,.site,.ink",
+        "uri": "whois.centralnic.com",
+        "available": "DOMAIN NOT FOUND"
+    },
+    {
+        "extensions": ".ac,.co.ac,.gv.ac,.or.ac,.ac.ac",
+        "uri": "whois.nic.ac",
+        "available": "is available for purchase"
+    },
+    {
+        "extensions": ".af",
+        "uri": "whois.nic.af",
+        "available": "No Object Found"
+    },
+    {
+        "extensions": ".am",
+        "uri": "whois.amnic.net",
+        "available": "No match"
+    },
+    {
+        "extensions": ".as",
+        "uri": "whois.nic.as",
+        "available": "Available"
+    },
+    {
+        "extensions": ".at,.ac.at,.co.at,.gv.at,.or.at",
+        "uri": "whois.nic.at",
+        "available": "nothing found"
+    },
+    {
+        "extensions": ".asn.au,.com.au,.edu.au,.org.au,.net.au,.id.au",
+        "uri": "whois-check.ausregistry.net.au",
+        "available": "---Available"
+    },
+    {
+        "extensions": ".be,.ac.be",
+        "uri": "whois.dns.be",
+        "available": "Status:\tAVAILABLE"
+    },
+    {
+        "extensions": ".br,.adm.br,.adv.br,.am.br,.arq.br,.art.br,.bio.br,.cng.br,.cnt.br,.com.br,.ecn.br,.eng.br,.esp.br,.etc.br,.eti.br,.fm.br,.fot.br,.fst.br,.g12.br,.gov.br,.ind.br,.inf.br,.jor.br,.lel.br,.med.br,.mil.br,.net.br,.nom.br,.ntr.br,.odo.br,.org.br,.ppg.br,.pro.br,.psc.br,.psi.br,.rec.br,.slg.br,.tmp.br,.tur.br,.tv.br,.vet.br,.zlg.br",
+        "uri": "whois.nic.br",
+        "available": "No match for"
+    },
+    {
+        "extensions": ".ca",
+        "uri": "whois.cira.ca",
+        "available": "Domain status:         available"
+    },
+    {
+        "extensions": ".cc",
+        "uri": "whois.nic.cc",
+        "available": "No match"
+    },
+    {
+        "extensions": ".cn,.ac.cn,.com.cn,.edu.cn,.gov.cn,.net.cn,.org.cn,.bj.cn,.sh.cn,.tj.cn,.cq.cn,.he.cn,.nm.cn,.ln.cn,.jl.cn,.hl.cn,.js.cn,.zj.cn,.ah.cn,.hb.cn,.hn.cn,.gd.cn,.gx.cn,.hi.cn,.sc.cn,.gz.cn,.yn.cn,.xz.cn,.sn.cn,.gs.cn,.qh.cn,.nx.cn,.xj.cn,.tw.cn,.hk.cn,.mo.cn",
+        "uri": "whois.cnnic.net.cn",
+        "available": "No matching record"
+    },
+    {
+        "extensions": ".scot",
+        "uri": "whois.scot.coreregistry.net",
+        "available": "no matching objects found"
+    },
+    {
+        "extensions": ".cx",
+        "uri": "whois.nic.cx",
+        "available": "No match for"
+    },
+    {
+        "extensions": ".cz",
+        "uri": "whois.nic.cz",
+        "available": "No entries found"
+    },
+    {
+        "extensions": ".de",
+        "uri": "whois.denic.de",
+        "available": "Status: free"
+    },
+    {
+        "extensions": ".dk",
+        "uri": "whois.dk-hostmaster.dk",
+        "available": "No entries found"
+    },
+    {
+        "extensions": ".fo",
+        "uri": "whois.nic.fo",
+        "available": "no entries found"
+    },
+    {
+        "extensions": ".com.ec,.org.ec,.net.ec,.mil.ec,.fin.ec,.med.ec,.gov.ec",
+        "uri": "whois.lac.net",
+        "available": "No match found"
+    },
+    {
+        "extensions": ".fr,.tm.fr,.com.fr,.asso.fr,.presse.fr",
+        "uri": "whois.nic.fr",
+        "available": "No entries found"
+    },
+    {
+        "extensions": ".gf",
+        "uri": "whois.nplus.gf",
+        "available": "not found in our database"
+    },
+    {
+        "extensions": ".co.il,.org.il,.net.il,.ac.il,.k12.il,.gov.il,.muni.il",
+        "uri": "whois.isoc.org.il",
+        "available": "No data was found"
+    },
+    {
+        "extensions": ".ac.in,.co.in,.org.in,.ernet.in,.gov.in,.net.in,.res.in,.in",
+        "uri": "whois.inregistry.in",
+        "available": "NOT FOUND"
+    },
+    {
+        "extensions": ".is",
+        "uri": "whois.isnic.is",
+        "available": "No entries found"
+    },
+    {
+        "extensions": ".it",
+        "uri": "whois.nic.it",
+        "available": "AVAILABLE"
+    },
+    {
+        "extensions": ".ac.jp,.co.jp,.go.jp,.or.jp,.ne.jp",
+        "uri": "whois.nic.ad.jp",
+        "available": "No match!!"
+    },
+    {
+        "extensions": ".ac.kr,.co.kr,.go.kr,.ne.kr,.nm.kr,.or.kr,.re.kr",
+        "uri": "whois.nic.or.kr",
+        "available": "domain was not found"
+    },
+    {
+        "extensions": ".li",
+        "uri": "whois.nic.li",
+        "available": "We do not have an entry in our database matching your query"
+    },
+    {
+        "extensions": ".lt",
+        "uri": "das.domreg.lt",
+        "available": "Status:\t\t\tavailable"
+    },
+    {
+        "extensions": ".lu",
+        "uri": "whois.dns.lu",
+        "available": "No such domain"
+    },
+    {
+        "extensions": ".asso.mc,.tm.mc,.ad",
+        "uri": "whois.ripe.net",
+        "available": "no entries found"
+    },
+    {
+        "extensions": ".com.mm,.org.mm,.net.mm,.edu.mm,.gov.mm",
+        "uri": "whois.nic.mm",
+        "available": "No domains matched"
+    },
+    {
+        "extensions": ".mx,.com.mx,.org.mx,.net.mx,.edu.mx,.gov.mx,.gob.mx",
+        "uri": "whois.nic.mx",
+        "available": "No_Se_Encontro_El_Objeto/Object_Not_Found"
+    },
+    {
+        "extensions": ".nl",
+        "uri": "whois.domain-registry.nl",
+        "available": "is free"
+    },
+    {
+        "extensions": ".no,.priv.no,.idrett.no",
+        "uri": "whois.norid.no",
+        "available": "No match"
+    },
+    {
+        "extensions": ".nu",
+        "uri": "whois.nic.nu",
+        "available": "not found"
+    },
+    {
+        "extensions": ".pl,.com.pl,.net.pl,.org.pl,.aid.pl,.agro.pl,.atm.pl,.auto.pl,.biz.pl,.edu.pl,.gmina.pl,.gsm.pl,.info.pl,.mail.pl,.miasta.pl,.media.pl,.mil.pl,.nom.pl,.pc.pl,.priv.pl,.realestate.pl,.rel.pl,.shop.pl,.sklep.pl,.sos.pl,.targi.pl,.tm.pl,.tourism.pl,.travel.pl,.turystyka.pl",
+        "uri": "whois.dns.pl",
+        "available": "No information available"
+    },
+    {
+        "extensions": ".ro,.com.ro,.org.ro,.store.ro,.tm.ro,.firm.ro,.www.ro,.arts.ro,.rec.ro,.info.ro,.nom.ro,.nt.ro",
+        "uri": "whois.rotld.ro",
+        "available": "No entries found"
+    },
+    {
+        "extensions": ".se",
+        "uri": "whois.iis.se",
+        "available": "not found"
+    },
+    {
+        "extensions": ".si",
+        "uri": "whois.arnes.si",
+        "available": "No entries found"
+    },
+    {
+        "extensions": ".com.sg,.org.sg,.net.sg,.gov.sg,.sg,.edu.sg",
+        "uri": "whois.nic.net.sg",
+        "available": "Domain Not Found"
+    },
+    {
+        "extensions": ".sk",
+        "uri": "whois.sk-nic.sk",
+        "available": "Not found"
+    },
+    {
+        "extensions": ".st",
+        "uri": "whois.nic.st",
+        "available": "No entries found"
+    },
+    {
+        "extensions": ".tf",
+        "uri": "whois.nic.tf",
+        "available": "No entries found"
+    },
+    {
+        "extensions": ".ac.th,.co.th,.go.th,.mi.th,.net.th,.or.th,.in.th",
+        "uri": "whois.thnic.net",
+        "available": "No match for"
+    },
+    {
+        "extensions": ".tj",
+        "uri": "whois.nic.tj",
+        "available": "No match"
+    },
+    {
+        "extensions": ".to",
+        "uri": "monarch.tonic.to",
+        "available": "No match for"
+    },
+    {
+        "extensions": ".bbs.tr,.com.tr,.edu.tr,.gov.tr,.k12.tr,.mil.tr,.net.tr,.org.tr,.biz.tr,.name.tr,.tel.tr,.bel.tr,.gen.tr,.info.tr,.web.tr",
+        "uri": "whois.nic.tr",
+        "available": "No match found"
+    },
+    {
+        "extensions": ".istanbul",
+        "uri": "whois.afilias-srs.net",
+        "available": "NOT FOUND"
+    },
+    {
+        "extensions": ".com.tw,.org.tw,.net.tw",
+        "uri": "whois.twnic.net",
+        "available": "No Found"
+    },
+    {
+        "extensions": ".ac.uk",
+        "uri": "whois.ja.net",
+        "available": "Sorry - no"
+    },
+    {
+        "extensions": ".uk.co",
+        "uri": "whois.uk.co",
+        "available": "NO MATCH"
+    },
+    {
+        "extensions": ".ac.za,.alt.za,.edu.za,.gov.za,.mil.za,.ngo.za,.nom.za,.school.za,.tm.za",
+        "uri": "whois.co.za",
+        "available": "No information available"
+    },
+    {
+        "extensions": ".co.za",
+        "uri": "whois.registry.net.za",
+        "available": "Available"
+    },
+    {
+        "extensions": ".net.za",
+        "uri": "net-whois.registry.net.za",
+        "available": "Available"
+    },
+    {
+        "extensions": ".org.za",
+        "uri": "org-whois.registry.net.za",
+        "available": "Available"
+    },
+    {
+        "extensions": ".web.za",
+        "uri": "web-whois.registry.net.za",
+        "available": "Available"
+    },
+    {
+        "extensions": ".kz",
+        "uri": "whois.domain.kz",
+        "available": "No entries found"
+    },
+    {
+        "extensions": ".ch",
+        "uri": "whois.nic.ch",
+        "available": "We do not have an entry in our database matching your query"
+    },
+    {
+        "extensions": ".info,.blue,.kim,.pink,.black,.green,.lgbt,.poker,.red,.vote,.voto",
+        "uri": "whois.afilias.net",
+        "available": "NOT FOUND"
+    },
+    {
+        "extensions": ".ua",
+        "uri": "whois.ua",
+        "available": "No entries found"
+    },
+    {
+        "extensions": ".biz",
+        "uri": "whois.nic.biz",
+        "available": "Not found"
+    },
+    {
+        "extensions": ".ws",
+        "uri": "whois.website.ws",
+        "available": "No match for"
+    },
+    {
+        "extensions": ".gov",
+        "uri": "whois.nic.gov",
+        "available": "No match for"
+    },
+    {
+        "extensions": ".name",
+        "uri": "whois.nic.name",
+        "available": "No match"
+    },
+    {
+        "extensions": ".ie",
+        "uri": "whois.domainregistry.ie",
+        "available": "% Not Registered"
+    },
+    {
+        "extensions": ".hk",
+        "uri": "whois.hkirc.hk",
+        "available": "The domain has not been registered"
+    },
+    {
+        "extensions": ".com.hk,.org.hk,.net.hk,.edu.hk",
+        "uri": "whois.hkdnr.net.hk",
+        "available": "The domain has not been registered"
+    },
+    {
+        "extensions": ".us",
+        "uri": "whois.nic.us",
+        "available": "Not found"
+    },
+    {
+        "extensions": ".tk",
+        "uri": "https://partners.nic.tk/cgi-bin/whmcs-whois.taloha?d=",
+        "available": "has no matches"
+    },
+    {
+        "extensions": ".cd",
+        "uri": "whois.cd",
+        "available": "No match"
+    },
+    {
+        "extensions": ".aero",
+        "uri": "whois.aero",
+        "available": "NOT FOUND"
+    },
+    {
+        "extensions": ".by",
+        "uri": "whois.cctld.by",
+        "available": "Object does not exist"
+    },
+    {
+        "extensions": ".lv",
+        "uri": "whois.nic.lv",
+        "available": "Status: free"
+    },
+    {
+        "extensions": ".eu.lv",
+        "uri": "whois.biz",
+        "available": "Not found"
+    },
+    {
+        "extensions": ".bz",
+        "uri": "whois.afilias-grs.info.",
+        "available": "NOT FOUND"
+    },
+    {
+        "extensions": ".jp",
+        "uri": "whois.jprs.jp",
+        "available": "No match!!"
+    },
+    {
+        "extensions": ".cl",
+        "uri": "whois.nic.cl",
+        "available": "no existe"
+    },
+    {
+        "extensions": ".ag",
+        "uri": "whois.nic.ag",
+        "available": "NOT FOUND"
+    },
+    {
+        "extensions": ".mobi",
+        "uri": "whois.dotmobiregistry.net",
+        "available": "NOT FOUND"
+    },
+    {
+        "extensions": ".eu",
+        "uri": "whois.eu",
+        "available": "Status: AVAILABLE"
+    },
+    {
+        "extensions": ".co.nz,.org.nz,.net.nz,.maori.nz,.iwi.nz,.ac.nz,.kiwi.nz,.geek.nz,.gen.nz,.school.nz,.nz",
+        "uri": "whois.srs.net.nz",
+        "available": "220 Available"
+    },
+    {
+        "extensions": ".io",
+        "uri": "whois.nic.io",
+        "available": "is available"
+    },
+    {
+        "extensions": ".la",
+        "uri": "whois.nic.la",
+        "available": "NOT FOUND"
+    },
+    {
+        "extensions": ".md",
+        "uri": "whois.nic.md",
+        "available": "No match for"
+    },
+    {
+        "extensions": ".sc",
+        "uri": "wawa.eahd.or.ug",
+        "available": "No entries found"
+    },
+    {
+        "extensions": ".vc,.vg,.tc",
+        "uri": "whois.adamsnames.tc",
+        "available": "Available"
+    },
+    {
+        "extensions": ".tw",
+        "uri": "whois.twnic.net.tw",
+        "available": "No Found"
+    },
+    {
+        "extensions": ".travel",
+        "uri": "whois.nic.travel",
+        "available": "Not found"
+    },
+    {
+        "extensions": ".my,.com.my,.net.my,.org.my,.edu.my,.gov.my",
+        "uri": "whois.mynic.my",
+        "available": "does not exist in database"
+    },
+    {
+        "extensions": ".com.ph,.net.ph,.ph,.ngo.ph,.org.ph",
+        "uri": "https://whois.dot.ph/?search=",
+        "available": "Domain is available"
+    },
+    {
+        "extensions": ".tv",
+        "uri": "whois.nic.tv",
+        "available": "No match for"
+    },
+    {
+        "extensions": ".pt,.com.pt,.edu.pt",
+        "uri": "whois.dns.pt",
+        "available": "no match"
+    },
+    {
+        "extensions": ".me",
+        "uri": "whois.nic.me",
+        "available": "NOT FOUND"
+    },
+    {
+        "extensions": ".asia",
+        "uri": "whois.nic.asia",
+        "available": "NOT FOUND"
+    },
+    {
+        "extensions": ".fi",
+        "uri": "whois.ficora.fi",
+        "available": "Domain not found"
+    },
+    {
+        "extensions": ".za.net,.za.org",
+        "uri": "http://www.za.net/cgi-bin/whois.cgi?domain=",
+        "available": "No such domain"
+    },
+    {
+        "extensions": ".com.ve,.net.ve,.org.ve,.web.ve,.info.ve,.co.ve",
+        "uri": "whois.nic.ve",
+        "available": "No match for"
+    },
+    {
+        "extensions": ".tel",
+        "uri": "whois.nic.tel",
+        "available": "Not found"
+    },
+    {
+        "extensions": ".im",
+        "uri": "whois.nic.im",
+        "available": "was not found"
+    },
+    {
+        "extensions": ".gr,.com.gr,.net.gr,.org.gr,.edu.gr,.gov.gr",
+        "uri": "http://grwhois.ics.forth.gr:800/plainwhois/plainWhois?domainName=",
+        "available": "not exist"
+    },
+    {
+        "extensions": ".ir",
+        "uri": "whois.nic.ir",
+        "available": "no entries found"
+    },
+    {
+        "extensions": ".ru,.pp.ru,.net.ru,.org.ru,.su,.com.ru",
+        "uri": "whois.ripn.net",
+        "available": "No entries found"
+    },
+    {
+        "extensions": ".spb.ru,.msk.ru",
+        "uri": "whois.relcom.ru",
+        "available": "No entries found"
+    },
+    {
+        "extensions": ".com.ua,.lviv.ua,.dn.ua,.kh.ua,.lg.ua,.net.ua,.org.ua,.kiev.ua",
+        "uri": "whois.net.ua",
+        "available": "No entries found"
+    },
+    {
+        "extensions": ".co,.net.co,.com.co,.nom.co",
+        "uri": "whois.nic.co",
+        "available": "Not found"
+    },
+    {
+        "extensions": ".com.gt,.net.gt,.org.gt,.ind.gt,.edu.gt,.gob.gt,.mil.gt",
+        "uri": "http://www.gt/cgi-bin/whois.cgi?domain=",
+        "available": "DOMINIO NO REGISTRADO"
+    },
+    {
+        "extensions": ".pro",
+        "uri": "whois.nic.pro",
+        "available": "NOT FOUND"
+    },
+    {
+        "extensions": ".re",
+        "uri": "whois.nic.re",
+        "available": "No entries found"
+    },
+    {
+        "extensions": ".pm",
+        "uri": "whois.nic.pm",
+        "available": "No entries found"
+    },
+    {
+        "extensions": ".wf",
+        "uri": "whois.nic.wf",
+        "available": "No entries found"
+    },
+    {
+        "extensions": ".yt",
+        "uri": "whois.nic.yt",
+        "available": "No entries found"
+    },
+    {
+        "extensions": ".xxx",
+        "uri": "whois.nic.xxx",
+        "available": "NOT FOUND"
+    },
+    {
+        "extensions": ".hu",
+        "uri": "whois.nic.hu",
+        "available": "No match"
+    },
+    {
+        "extensions": ".ac.ke,.co.ke,.or.ke,.ne.ke,.mobi.ke,.info.ke,.go.ke,.me.ke,.sc.ke",
+        "uri": "whois.kenic.or.ke",
+        "available": "No Object Found"
+    },
+    {
+        "extensions": ".gd",
+        "uri": "whois.nic.gd",
+        "available": "not found..."
+    },
+    {
+        "extensions": ".rs,.co.rs,.org.rs,.edu.rs,.in.rs",
+        "uri": "whois.rnids.rs",
+        "available": "%ERROR:103"
+    },
+    {
+        "extensions": ".ae",
+        "uri": "whois.aeda.net.ae",
+        "available": "No Data Found"
+    },
+    {
+        "extensions": ".pw",
+        "uri": "whois.nic.pw",
+        "available": "DOMAIN NOT FOUND"
+    },
+    {
+        "extensions": ".cat",
+        "uri": "whois.cat",
+        "available": "no matching objects found"
+    },
+    {
+        "extensions": ".mil.id,.go.id",
+        "uri": "whois.idnic.net.id",
+        "available": "Not found"
+    },
+    {
+        "extensions": ".fm",
+        "uri": "whois.nic.fm",
+        "available": "Not Registered"
+    },
+    {
+        "extensions": ".mn",
+        "uri": "whois.afilias-grs.info",
+        "available": "NOT FOUND"
+    },
+    {
+        "extensions": ".sx",
+        "uri": "whois.sx",
+        "available": "Status: AVAILABLE"
+    },
+    {
+        "extensions": ".pa,.com.pa,.net.pa,.org.pa",
+        "uri": "http://www.nic.pa/whois.php?nombre_d=",
+        "available": "esta disponible para ser Registrado"
+    },
+    {
+        "extensions": ".equipment,.gallery,.graphics,.lighting,.photography,.directory,.technology,.today,.bike,.clothing,.guru,.plumbing,.singles,.camera,.estate,.construction,.contractors,.kitchen,.land,.enterprises,.holdings,.ventures,.diamonds,.voyage,.photos,.shoes,.careers,.recipes,.academy,.agency,.associates,.bargains,.boutique,.builders,.cab,.camp,.center,.cheap,.codes,.coffee,.company,.computer,.cool,.education,.email,.expert,.exposed,.farm,.flights,.florist,.glass,.holiday,.house,.institute,.international,.limo,.maison,.management,.marketing,.onl,.repair,.solar,.solutions,.supplies,.supply,.support,.systems,.tips,.training,.viajes,.wiki,.zone,.world,.apartments,.bingo,.business,.cafe,.capital,.cards,.care,.cash,.casino,.catering,.chat,.church,.city,.claims,.cleaning,.clinic,.coach,.community,.condos,.coupons,.credit,.creditcard,.cruises,.dating,.deals,.delivery,.dental,.digital,.direct,.discount,.dog,.domains,.energy,.engineering,.events,.exchange,.express,.fail,.finance,.financial,.fish,.fitness,.football,.foundation,.fund,.furniture,.fyi,.gifts,.gold,.golf,.gratis,.gripe,.guide,.healthcare,.hockey,.immo,.industries,.insure,.investments,.jewelry,.lease,.legal,.life,.limited,.loans,.mba,.media,.memorial,.money,.movie,.network,.partners,.parts,.pictures,.pizza,.place,.plus,.productions,.properties,.reisen,.rentals,.report,.restaurant,.run,.sarl,.school,.schule,.services,.show,.soccer,.style,.surgery,.tax,.taxi,.team,.tennis,.theater,.tienda,.tires,.tools,.tours,.town,.toys,.university,.vacations,.villas,.vision,.watch,.works,.wtf",
+        "uri": "whois.donuts.co",
+        "available": "Domain not found"
+    },
+    {
+        "extensions": ".cm",
+        "uri": "whois.netcom.cm",
+        "available": "Not Registered"
+    },
+    {
+        "extensions": ".gs",
+        "uri": "whois.nic.gs",
+        "available": "No Object Found"
+    },
+    {
+        "extensions": ".ms",
+        "uri": "whois.nic.ms",
+        "available": "No Object Found"
+    },
+    {
+        "extensions": ".sh",
+        "uri": "whois.nic.sh",
+        "available": "is available for purchase"
+    },
+    {
+        "extensions": ".tm",
+        "uri": "whois.nic.tm",
+        "available": "is available for purchase"
+    },
+    {
+        "extensions": ".ee",
+        "uri": "whois.tld.ee",
+        "available": "Domain not found"
+    },
+    {
+        "extensions": ".airforce,.futbol,.social,.pub,.actor,.auction,.consulting,.dance,.democrat,.forsale,.haus,.immobilien,.kaufen,.reviews,.rocks",
+        "uri": "whois.unitedtld.com",
+        "available": "Domain not found"
+    },
+    {
+        "extensions": ".archi,.bio,.desi,.ski",
+        "uri": "whois.ksregistry.net",
+        "available": "not found"
+    },
+    {
+        "extensions": ".arpa",
+        "uri": "whois.iana.org",
+        "available": "0 objects"
+    },
+    {
+        "extensions": ".ax",
+        "uri": "whois.ax",
+        "available": "No records matching"
+    },
+    {
+        "extensions": ".berlin",
+        "uri": "whois.nic.berlin",
+        "available": "No match"
+    },
+    {
+        "extensions": ".build",
+        "uri": "whois.nic.build",
+        "available": "No Data Found"
+    },
+    {
+        "extensions": ".buzz",
+        "uri": "whois.nic.buzz",
+        "available": "Not found:"
+    },
+    {
+        "extensions": ".capetown",
+        "uri": "whois.nic.capetown",
+        "available": "Available"
+    },
+    {
+        "extensions": ".club",
+        "uri": "whois.nic.club",
+        "available": "No Domain exists for the search string"
+    },
+    {
+        "extensions": ".durban",
+        "uri": "whois.nic.durban",
+        "available": "Available"
+    },
+    {
+        "extensions": ".gift,.guitars,.link,.pics,.sexy,.audio,.blackfriday,.christmas,.click,.diet,.flowers,.help,.hiphop,.hosting,.juegos,.lol,.photo,.property,.tattoo",
+        "uri": "whois.uniregistry.net",
+        "available": "is available for registration"
+    },
+    {
+        "extensions": ".joburg",
+        "uri": "whois.nic.joburg",
+        "available": "Available"
+    },
+    {
+        "extensions": ".luxury",
+        "uri": "whois.nic.luxury",
+        "available": "No Data Found"
+    },
+    {
+        "extensions": ".menu",
+        "uri": "whois.nic.menu",
+        "available": "No Data Found"
+    },
+    {
+        "extensions": ".moda",
+        "uri": "whois.nic.moda",
+        "available": "Domain not found"
+    },
+    {
+        "extensions": ".ninja",
+        "uri": "whois.nic.ninja",
+        "available": "Domain not found"
+    },
+    {
+        "extensions": ".shiksha",
+        "uri": "whois.nic.shiksha",
+        "available": "NOT FOUND"
+    },
+    {
+        "extensions": ".uno",
+        "uri": "whois.nic.uno",
+        "available": "Not found"
+    },
+    {
+        "extensions": ".work",
+        "uri": "whois-dub.mm-registry.com",
+        "available": "Not Registered"
+    },
+    {
+        "extensions": ".co.zw",
+        "uri": "http://zispa.co.zw/cgi-bin/domain_lookup.pl?s=",
+        "available": "is available for registration"
+    },
+    {
+        "extensions": ".coop",
+        "uri": "whois.nic.coop",
+        "available": "DOMAIN NOT FOUND"
+    },
+    {
+        "extensions": ".co.id,.desa.id,.web.id,.ac.id,.or.id,.sch.id,.my.id,.biz.id",
+        "uri": "whois.pandi.or.id",
+        "available": "DOMAIN NOT FOUND"
+    },
+    {
+        "extensions": ".attorney,.lawyer,.army,.band,.degree,.dentist,.engineer,.family,.gives,.live,.market,.mortgage,.navy,.news,.rehab,.republican,.rip,.sale,.software,.studio,.vet,.video",
+        "uri": "whois.rightside.co",
+        "available": "Domain not found"
+    },
+    {
+        "extensions": ".top",
+        "uri": "whois.nic.top",
+        "available": "The queried object does not exist"
+    },
+    {
+        "extensions": ".co.tz,.or.tz,.go.tz,.ne.tz,.me.tz,.tv.tz,.ac.tz,.sc.tz",
+        "uri": "whois.tznic.or.tz",
+        "available": "No entries found"
+    },
+    {
+        "extensions": ".irish,.adult,.ltda,.porn,.rich,.sex,.srl,.vegas",
+        "uri": "whois.afilias-srs.net",
+        "available": "NOT FOUND"
+    },
+    {
+        "extensions": ".pe,.com.pe",
+        "uri": "kero.yachay.pe",
+        "available": "Not Registered"
+    },
+    {
+        "extensions": ".accountant",
+        "uri": "whois.nic.accountant",
+        "available": "No Domain exists"
+    },
+    {
+        "extensions": ".accountants",
+        "uri": "whois.nic.accountants",
+        "available": "Domain not found"
+    },
+    {
+        "extensions": ".ar.com",
+        "uri": "whois.centralnic.net",
+        "available": "DOMAIN NOT FOUND"
+    },
+    {
+        "extensions": ".bar",
+        "uri": "whois.nic.bar",
+        "available": "DOMAIN NOT FOUND"
+    },
+    {
+        "extensions": ".best",
+        "uri": "whois.nic.best",
+        "available": "No Domain exists"
+    },
+    {
+        "extensions": ".bid",
+        "uri": "whois.nic.bid",
+        "available": "No Domain exists"
+    },
+    {
+        "extensions": ".ceo",
+        "uri": "whois.nic.ceo",
+        "available": "No Domain exists"
+    },
+    {
+        "extensions": ".college",
+        "uri": "whois.nic.college",
+        "available": "DOMAIN NOT FOUND"
+    },
+    {
+        "extensions": ".courses,.melbourne",
+        "uri": "whois.aridnrs.net.au",
+        "available": "No Data Found"
+    },
+    {
+        "extensions": ".cricket",
+        "uri": "whois.nic.cricket",
+        "available": "No Domain exists"
+    },
+    {
+        "extensions": ".cymru",
+        "uri": "whois.nic.cymru",
+        "available": "This domain name has not been registered"
+    },
+    {
+        "extensions": ".date",
+        "uri": "whois.nic.date",
+        "available": "No Domain exists"
+    },
+    {
+        "extensions": ".design",
+        "uri": "whois.nic.design",
+        "available": "DOMAIN NOT FOUND"
+    },
+    {
+        "extensions": ".download",
+        "uri": "whois.nic.download",
+        "available": "No Domain exists"
+    },
+    {
+        "extensions": ".earth",
+        "uri": "whois.nic.earth",
+        "available": "No Domain exists"
+    },
+    {
+        "extensions": ".eus",
+        "uri": "whois.eus.coreregistry.net",
+        "available": "no matching objects found"
+    },
+    {
+        "extensions": ".faith",
+        "uri": "whois.nic.faith",
+        "available": "No Domain exists"
+    },
+    {
+        "extensions": ".fans",
+        "uri": "whois.nic.fans",
+        "available": "DOMAIN NOT FOUND"
+    },
+    {
+        "extensions": ".film",
+        "uri": "whois.nic.film",
+        "available": "No Data Found"
+    },
+    {
+        "extensions": ".gal",
+        "uri": "whois.gal.coreregistry.net",
+        "available": "no matching objects found"
+    },
+    {
+        "extensions": ".global",
+        "uri": "whois.nic.global",
+        "available": "NOT FOUND"
+    },
+    {
+        "extensions": ".host",
+        "uri": "whois.nic.host",
+        "available": "DOMAIN NOT FOUND"
+    },
+    {
+        "extensions": ".how,.soy",
+        "uri": "domain-registry-whois.l.google.com",
+        "available": "Domain not found"
+    },
+    {
+        "extensions": ".loan",
+        "uri": "whois.nic.loan",
+        "available": "No Domain exists"
+    },
+    {
+        "extensions": ".london",
+        "uri": "whois-lon.mm-registry.com",
+        "available": ""
+    },
+    {
+        "extensions": ".love",
+        "uri": "whois.nic.love",
+        "available": "DOMAIN NOT FOUND"
+    },
+    {
+        "extensions": ".men",
+        "uri": "whois.nic.men",
+        "available": "No Data Found"
+    },
+    {
+        "extensions": ".moe",
+        "uri": "whois.nic.moe",
+        "available": "No Domain exists"
+    },
+    {
+        "extensions": ".one",
+        "uri": "whois.nic.one",
+        "available": "No Data Found"
+    },
+    {
+        "extensions": ".osaka",
+        "uri": "whois.nic.osaka",
+        "available": "No Domain exists"
+    },
+    {
+        "extensions": ".paris",
+        "uri": "whois-paris.nic.fr",
+        "available": "The queried object does not exist"
+    },
+    {
+        "extensions": ".party",
+        "uri": "whois.nic.party",
+        "available": "No Domain exists"
+    },
+    {
+        "extensions": ".press",
+        "uri": "whois.nic.press",
+        "available": "DOMAIN NOT FOUND"
+    },
+    {
+        "extensions": ".quebec",
+        "uri": "whois.nic.quebec",
+        "available": "no matching objects found"
+    },
+    {
+        "extensions": ".racing",
+        "uri": "whois.nic.racing",
+        "available": "No Domain exists"
+    },
+    {
+        "extensions": ".reise",
+        "uri": "whois.nic.reise",
+        "available": "Domain not found"
+    },
+    {
+        "extensions": ".rent",
+        "uri": "whois.nic.rent",
+        "available": "DOMAIN NOT FOUND"
+    },
+    {
+        "extensions": ".rest",
+        "uri": "whois.nic.rest",
+        "available": "DOMAIN NOT FOUND"
+    },
+    {
+        "extensions": ".review",
+        "uri": "whois.nic.review",
+        "available": "No Domain exists"
+    },
+    {
+        "extensions": ".science",
+        "uri": "whois.nic.science",
+        "available": "No Domain exists"
+    },
+    {
+        "extensions": ".space",
+        "uri": "whois.nic.space",
+        "available": "DOMAIN NOT FOUND"
+    },
+    {
+        "extensions": ".study",
+        "uri": "whois.nic.study",
+        "available": "No Data Found"
+    },
+    {
+        "extensions": ".sucks",
+        "uri": "whois.nic.sucks",
+        "available": "No Data Found"
+    },
+    {
+        "extensions": ".sydney",
+        "uri": "whois.nic.sydney",
+        "available": "No Data Found"
+    },
+    {
+        "extensions": ".tech",
+        "uri": "whois.nic.tech",
+        "available": "DOMAIN NOT FOUND"
+    },
+    {
+        "extensions": ".trade",
+        "uri": "whois.nic.trade",
+        "available": "No Domain exists"
+    },
+    {
+        "extensions": ".voting",
+        "uri": "whois.voting.tld-box.at",
+        "available": ""
+    },
+    {
+        "extensions": ".wales",
+        "uri": "whois.nic.wales",
+        "available": "This domain name has not been registered"
+    },
+    {
+        "extensions": ".webcam",
+        "uri": "whois.nic.webcam",
+        "available": "No Domain exists"
+    },
+    {
+        "extensions": ".website",
+        "uri": "whois.nic.website",
+        "available": "DOMAIN NOT FOUND"
+    },
+    {
+        "extensions": ".win",
+        "uri": "whois.nic.win",
+        "available": "No Domain exists"
+    },
+    {
+        "extensions": ".xyz",
+        "uri": "whois.nic.xyz",
+        "available": "DOMAIN NOT FOUND"
+    },
+    {
+        "extensions": ".ru.com",
+        "uri": "whois.verisign-grs.com",
+        "available": "No match for"
+    },
+    {
+        "extensions": ".swiss",
+        "uri": "whois.nic.swiss",
+        "available": "The queried object does not exist: no matching objects found"
+    },
+    {
+        "extensions": ".mk,.com.mk,.org.mk,.net.mk,.inf.mk,.edu.mk",
+        "uri": "whois.marnet.mk",
+        "available": "No entries found"
+    },
+    {
+        "extensions": ".cloud",
+        "uri": "whois.nic.cloud",
+        "available": "No Data Found"
+    },
+    {
+        "extensions": ".ma,.net.ma,.org.ma,.co.ma,.gov.ma,.press.ma,.ac.ma",
+        "uri": "whois.registre.ma",
+        "available": "No Object Found"
+    },
+    {
+        "extensions": ".mg,.com.mg,.org.mg,.co.mg",
+        "uri": "whois.nic.mg",
+        "available": "No Object Found"
+    },
+    {
+        "extensions": ".qa",
+        "uri": "whois.registry.qa",
+        "available": "No Data Found"
+    },
+    {
+        "extensions": ".africa.com",
+        "uri": "srs-whois.dns.net.za",
+        "available": "No information was found matching that query."
+    },
+    {
+        "extensions": ".ltd",
+        "uri": "whois.donuts.co",
+        "available": "Domain not found"
+    },
+    {
+        "extensions": ".id,.co.id,.desa.id,.web.id,.ac.id,.or.id,.sch.id,.my.id,.biz.id",
+        "uri": "whois.pandi.or.id",
+        "available": "DOMAIN NOT FOUND"
+    },
+    {
+        "extensions": ".sa,.com.sa,.net.sa,.med.sa,.sch.sa,.org.sa,.edu.sa,.gov.sa,.pub.sa",
+        "uri": "whois.nic.net.sa",
+        "available": "No Match"
+    }
+]
