@@ -16,9 +16,8 @@
 * Untuk menambah/mengubah ekstensi domain, Anda bisa langsung menambahkan/mengubah
 pada halaman index.php, dan tidak perlu mengubah file lain.
 * Pada aplikasi ini sudah terdapat ribuan ekstensi domain, Anda hanya tinggal menyunting
-yang anda perlukan saja pada select tag. Anda juga dapat melihat ekstensi domain yang disupport
+yang anda perlukan saja pada select tag (index.php). Anda juga dapat melihat ekstensi domain yang disupport
 pada direktori list/listdomain.json.
-* Default bahasa menggunakan Bahasa Indonesia. 
 
 
 ============================================================================
@@ -27,6 +26,5 @@ pada direktori list/listdomain.json.
 * To add/change domain extensions, you can directly add/change on the index.php page, 
 and no need to change other files.
 * In this application there are thousands of domain extensions, you can edit that you 
-need only in select tag. You can also see supported domain extensions in the list/listdomain.json 
+need only in select tag (index.php). You can also see supported domain extensions in the list/listdomain.json 
 directory.
-* Default language using Indonesian Language.	

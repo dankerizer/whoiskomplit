@@ -12,57 +12,106 @@
 // *************************************************************************
 
 class whoiskomplit{
-
 	function memproses($namadomain,$eks){
+		//Get TLD data from json list
 		$data = json_decode(file_get_contents("list/listdomain.json"), true);
 		
+		//Initialization
 		$i=0;
 		$ketemu = false;
+		
 		while($i<=count($data)-1 && $ketemu==false) {
-			$arr_kalimat = explode (",",$data[$i]['extensions']);
+			//Exploding TLD from list
+			$tld = explode (",",$data[$i]['extensions']);
 			$x=0;
-			while($x<=count($arr_kalimat)-1 && $ketemu==false){
-				if ($arr_kalimat[$x]==$eks){
-					$this->hasil($namadomain.$arr_kalimat[$x],
-											$data[$i]['uri'],
-											$data[$i]['available']);
+			//Exploding TLD from array list
+			while($x<=count($tld)-1 && $ketemu==false){
+				//If explode result = extension
+				if ($tld[$x]==$eks){
+					//Get specific TLD data
+					$this->hasil($namadomain.$tld[$x],
+									$data[$i]['uri'],
+									$data[$i]['available']);
 					$ketemu = true;
 				} 
 				$x = $x+1;
 			} 
 			$i = $i+1;
 		}
-
 	}
-
-	function hasil($namadomain,$server,$tersedia){
-		if($this->cekdomain($namadomain,$server,$tersedia)){
-			echo "Domain <u><b>$namadomain</b></u> tersedia, Anda dapat menggunakan domain ini. <b><a href='#' style='color: #fff;'>Beli <i class='fa fa-arrow-right'></i></a></b>";
-		}else{
-			echo "Domain <u><b><a href='http://$namadomain' style='color: #fff;' target='_blank'>$namadomain</a></b></u> tidak tersedia, Anda tidak dapat menggunakan domain ini.";
-		}
-	}
-
-	function cekdomain($domain,$server,$tersedia){
+	
+	function cek($domain,$server){
+		global $koneksi;
+		
+		//Send the requested domain name
 		$koneksi = fsockopen($server, 43);
-		if(!$koneksi) {
-			return false;
-		}
-			
 		fputs($koneksi, $domain."\r\n");
 			
+		return $koneksi;
+	}
+	
+	function whoischecker($server,$domain){
+		global $koneksi;
+		global $hasil;
+		
+		//Calling 'cek' function
+		$this->cek($domain,$server);
+		
+		//Whois checker
+		$respon = '';
+		while(!feof($koneksi)){
+			$respon .= fgets($koneksi,128); 
+		}
+		fclose($koneksi);
+		
+		$hasil = "";
+		if((strpos(strtolower($respon), "error") === FALSE) && (strpos(strtolower($respon), "not allocated") === FALSE)) {
+			$rows = explode("\n", $respon);
+			foreach($rows as $row) {
+				$row = trim($row);
+				if(($row != '') && ($row{0} != '#') && ($row{0} != '%')) {
+					$hasil .= $row."\n";
+				}
+			}
+		}
+	}
+	
+	function cekdomain($domain,$server,$tersedia){
+		global $koneksi;
+		
+		//Calling 'cek' function
+		$this->cek($domain,$server);
+		
+		//Check domain function
 		$respon = ' :';
 		while(!feof($koneksi)){
 			$respon .= fgets($koneksi,128); 
 		}
-			
 		fclose($koneksi);
-			
-		if (strpos($respon, $tersedia)){
+		
+		//Check the response whether the domain is available
+		if(strpos($respon, $tersedia)){
 			return true;
 		}else{
 			return false;   
 		}
 	}
+	
+	function hasil($namadomain,$server,$tersedia){
+		global $hasil;
+		
+		//Calling 'cekdomain' function
+		if($this->cekdomain($namadomain,$server,$tersedia)){
+			//If domain available
+			echo "Domain <u><b>$namadomain</b></u> available, You can use this Domain. <b><a href='#' style='color: #fff;'>Buy <i class='fa fa-arrow-right'></i></a></b>";
+		}else{
+			//If domain unavailable
+			$this->whoischecker($server,$namadomain);
+			define("BASEPATH", dirname(__FILE__));
+			include ("popup.php");
+			echo "Domain <u><b><a href='http://$namadomain' style='color: #fff;' target='_blank'>$namadomain</a></b></u> unavailable, You can't use this Domain.<br><b><a href='javascript:void(0);' style='color: #fff;' id='popupLink'>WHOIS?</a></b>";
+		}
+	}
+
 }
 ?>
